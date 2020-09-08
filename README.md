@@ -5,18 +5,19 @@ The purpose of this trading  bot is to automate trading. The bot is initiated wi
 
 The functionality of the bot includes:
 
-####Market analysis:
-⋅⋅*Bot accesses order book
-⋅⋅*Bot can generate predictions of future market prices 
+#### Market analysis
 
-####Bids, asks and sales
+⋅⋅* Bot accesses order book
+⋅⋅* Bot can generate predictions of future market prices 
 
-⋅⋅*Bot can generate bids and place them in the order book
-⋅⋅*Bot can generate asks and place them in the order book
-⋅⋅*Bot updates wallet after succesful sales
+#### Bids, asks and sales
 
-####Logging
-⋅⋅*Bot generates a log of the contents of its wallet
-⋅⋅*Bot generates a log of its bids and asks
-⋅⋅*Bot generates a log of its sales
+⋅⋅* Bot can generate bids and place them in the order book
+⋅⋅* Bot can generate asks and place them in the order book
+⋅⋅* Bot updates wallet after succesful sales
+
+#### Logging
+⋅⋅* Bot generates a log of the contents of its wallet
+⋅⋅* Bot generates a log of its bids and asks
+⋅⋅* Bot generates a log of its sales
 
