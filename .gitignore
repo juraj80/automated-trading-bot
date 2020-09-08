@@ -1,0 +1,14 @@
+# Don't track content of these folders
+Logs/
+
+# Compiled source #
+###################
+*.csv
+*.out
+*.dll
+*.exe
+*.o
+*.so
+*.jucer
+*.so
+
